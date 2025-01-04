@@ -1,26 +1,19 @@
 # Vinens Verden
 
-En omfattende nettside om vin, druesorter, regioner og vinkultur.
+En moderne nettside om vin, druesorter og vinkultur.
+
+## Om Prosjektet
+Dette er en omfattende ressurs for vininformasjon og vinkultur.
 
 ## Funksjoner
-- Druedatabase med detaljert informasjon
-- Interaktiv vinvelger
-- Søkefunksjon
+- Søkefunksjon for vin og druesorter
+- Interaktiv vinvelger basert på mat
 - Kart over vinregioner
+- Omfattende druedatabase
 - Temperatur- og lagringsguide
 
-## Teknologier
+## Teknologi Stack
 - HTML5
 - CSS3
 - JavaScript
-- API integrasjoner
-
-## Installasjon
-1. Klon repositoriet
-2. Åpne index.html i nettleseren
-
-## Bidrag
-Bidrag er velkommen! Se CONTRIBUTING.md for detaljer.
-
-## Lisens
-MIT Lisens - se LICENSE.md for detaljer.
+- Moderne front-end rammeverk
